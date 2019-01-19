@@ -1,78 +1,78 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "4Multimedia Technology Lab",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Digital Image Processing",
+        "name": "4Digital Image Processing",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
         "teacher": "Nivedita Thakur"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "4Multimedia Technology Lab",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "General Proficency",
+        "name": "4General Proficency",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
         "teacher": "Puja"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "4Multimedia Technology Lab",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Multimedia Technology",
+        "name": "4Multimedia Technology",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
         "teacher": "Shweta Rajput"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "4Multimedia Technology Lab",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Digital Image Processing",
+        "name": "4Digital Image Processing",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
         "teacher": "Nivedita Thakur"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "4Multimedia Technology Lab",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "General Proficency",
+        "name": "4General Proficency",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
         "teacher": "Puja"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "4Multimedia Technology Lab",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Multimedia Technology",
+        "name": "4Multimedia Technology",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
         "teacher": "Shweta Rajput"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "4Multimedia Technology Lab",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Project",
+        "name": "4Project",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
         "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Information System Security",
+        "name": "4Information System Security",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
         "teacher": "Satish Kumar"
@@ -113,7 +113,7 @@
         "endTime": "3:00 PM",
         "teacher": "Satish Kumar"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "4Data Warehouse and Data Mining",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
         "teacher": "Akshay Bhardwaj"
