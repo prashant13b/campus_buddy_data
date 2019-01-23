@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Science Technology And Society",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Ms. Minakshi Bhardwaj"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Applied Mathematics-II",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Dr. Praveen Kumar Sharma"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Applied Physics-II",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Shyam"
     }, {
-        "name": "General Proficency",
+        "name": "Fundamentals Of Computer Science And Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Ms. Alka Dixit"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "  MATLAB/BEEL/BMEL/CSTW ",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "AG+PKS/AL/SM/MB"
     }, {
-        "name": "Multimedia Technology",
+        "name": ".MATLAB/BEEL/BMEL/CSTW",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher":"AG+PKS/AL/SM/MB"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Science Technology and Society",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Ms. Minakshi Bhardwaj"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Applied Mathematics-II",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Dr. Praveen Kumar Sharma"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Applied Physics-II",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Shyam"
     }, {
-        "name": "General Proficency",
+        "name": "Fundamentals of Computer Science And Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Ms. Alka Dixit"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "MATLAB/BEEL/BMEL/CSTW ",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "AG+PKS/AL/SM/MB"
     }, {
-        "name": "Multimedia Technology",
+        "name": " MATLAB/BEEL/BMEL/CSTW",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "AG+PKS/AL/SM/MB"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Basic Mechanical Engineering",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Shagun Mehta"
     }, {
-        "name": "Project",
+        "name": "Applied Mathematics-II",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Dr. Praveen Kumar Sharma"
     }, {
-        "name": "Information System Security",
+        "name": "Applied Physics-II",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Shyam"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Basic Electrical Engineering",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Ajay Lotheta"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "MATLAB/BEEL/BMEL/CSTW",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "AG+PKS/AL/SM/MB"
     }, {
-        "name": "Multimedia Technology",
+        "name": "MATLAB/BEEL/BMEL/CSTW",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "AG+PKS/AL/SM/MB"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Basic Mechanical Engineering",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Shagun Mehta"
     }, {
-        "name": "Project",
+        "name": "Applied Mathematics-II",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Dr. Praveen Kumar Sharma "
     }, {
-        "name": "Information System Security",
+        "name": "Applied Physics-II",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Shyam "
     }, {
-        "name": "Computer Software Testing",
+        "name": "Basic Electrical Engineering",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Ajay Lotheta"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "MATLAB/BEEL/BMEL/CSTW",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "AG+PKS/AL/SM/MB"
     }, {
-        "name": "Multimedia Technology",
+        "name": "MATLAB/BEEL/BMEL/CSTW ",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "AG+PKS/AL/SM/MB"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Basic Mechanical Engineering",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Shagun Mehta"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Science Technology And Society",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Ms. Minakshi Bhardwaj"
     }, {
-        "name": "Information System Security",
+        "name": "Basic Electrical Engineering",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Ajay Lotheta"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Fundamentals Of Computer Science And Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Ms. Alka Dixit"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "MATLAB/BEEL/BMEL/CSTW",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "AG+PKS/AL/SM/MB"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "MATLAB/BEEL/BMEL/CSTW",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "AG+PKS/AL/SM/MB"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Masic Mechanical Emgineering",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr.Shagun Mehta"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Science Technology And Society",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Ms.Minakshi Bhardwaj"
     }, {
-        "name": "Information System Security",
+        "name": "Basic Electrical Emgineering",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Ajay Lotheta"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Fundamentals Of computer science And Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher":"Ms.Alka Dixit"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "MATLAB/BEEL/BMEL/CSTW",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "AG+PKS/AL/SM/MB"
     } ,{
         "name": "Cleanness Activity",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Ms. Minakshi Bhardwaj"
     }]
 }

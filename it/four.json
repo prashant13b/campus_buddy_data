@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "4Multimedia Technology Lab",
+        "name": "Computer Networks",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Ashok Kashyap"
     }, {
-        "name": "4Digital Image Processing",
+        "name": "Management Information System",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Mr. Ajay Bali"
     }, {
-        "name": "4Multimedia Technology Lab",
+        "name": "System Analysis And Design",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Rajesh Chauhan"
     }, {
-        "name": "4General Proficency",
+        "name": "DDCL/OSL/CNL",
         "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "endTime": "3.00PM",
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "4Multimedia Technology Lab",
+        "name": "DDCL/OSL/CNL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "4Multimedia Technology",
+        "name": "Human Computer Interaction",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mrs. Pratishtha Gautam"
     }],
     "tuesday": [{
-        "name": "4Multimedia Technology Lab",
+        "name": "Computer Networks",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Ashok Kashyap"
     }, {
-        "name": "4Digital Image Processing",
+        "name": "Management Information And System",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Mr. Ajay Bali"
     }, {
-        "name": "4Multimedia Technology Lab",
+        "name": "System Analysis And Design",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Rajesh Chauhan"
     }, {
-        "name": "4General Proficency",
+        "name": "DDCL/OSL/CNL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "4Multimedia Technology Lab",
+        "name": "DDCL/OSL/CNL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "4Multimedia Technology",
+        "name": " Human Computer Interaction",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mrs. Pratishtha Gautam"
     }],
     "wednesday": [{
-        "name": "4Multimedia Technology Lab",
+        "name": "Management Information And System",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Ajay Bali"
     }, {
-        "name": "4Project",
+        "name": "Digital And Data Communication",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Mrs.Nivedita Thakur"
     }, {
-        "name": "4Information System Security",
+        "name": "Operating System",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Sunil Kumar"
     }, {
-        "name": "Computer Software Testing",
+        "name": "DDCL/OSL/CNL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "DDCL/OSL/CNL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Human Computer Interaction ",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mrs. Pratishtha Gautam"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Muanagement Information And System",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Ajay Bali"
     }, {
-        "name": "Project",
+        "name": "Digital And Data Communication",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Mrs.Nivedita Thakur"
     }, {
-        "name": "Information System Security",
+        "name": "Operating System",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Sunil Kumar"
     }, {
-        "name": "Computer Software Testing",
+        "name": "DDCL/OSL/CNL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "NT/MW/AK"
     } ,{
-        "name": "4Data Warehouse and Data Mining",
+        "name": "DDCL/OSL/CNL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Human Computer Interaction",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mrs. Pratishtha Gautam"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Computer Networks",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Ashok Kashyap"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Digital And Data Communication",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Mrs.Nivedita Thakur"
     }, {
-        "name": "Information System Security",
+        "name": "Operating System",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Sunil Kumar"
     }, {
-        "name": "Computer Software Testing",
+        "name": "DDCL/OSL/CNL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "DDCL/OSL/CNL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "NT/MW/AK"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "System Analysis And Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Raheshn Chauhan"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Computer Networks",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. Ashok Kashyap"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Digital And Data Communication",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Mrs.Nivedita Thakur"
     }, {
-        "name": "Information System Security",
+        "name": "Operating System",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Sunil Kumar"
     }, {
-        "name": "Computer Software Testing",
+        "name": "DDCL/OSL/CNL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "NT/MW/AK"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Cleanless Activity",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Mr. Ashok Kumar"
     } ,{
-        "name": "Cleanness Activity",
+        "name": "System Analysis And Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Rajesh Chauhan"
     }]
 }

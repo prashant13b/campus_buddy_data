@@ -1,188 +1,193 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Engineering Graphics",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Applied Mathematics-I",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Dr. Praveek Kumar Sharma"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Applied Physics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Shyam"
     }, {
-        "name": "General Proficency",
+        "name": " Introduction to computers and programming in 'C' ",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF+S/GF/GF/AL"
     }, {
-        "name": "Multimedia Technology",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF+S/GF/GF/AL"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Engineering Graphics",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Applied Mathematics-I",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Dr. Praveek Kumar Sharma"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Applied Physics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Shyam"
     }, {
-        "name": "General Proficency",
+        "name": "Introduction to computers and programming in 'C'",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF+S/GF/GF/AL"
     }, {
-        "name": "Multimedia Technology",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF+S/GF/GF/AL"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Communication And Professional Skills",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Project",
+        "name": "Applied Mathematics-I",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Dr. Praveek Kumar Sharma"
     }, {
-        "name": "Information System Security",
+        "name": "Applied Physics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Shyam"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Basic Electronics",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Ajay Lotheta"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF+S/GF/GF/AL"
     }, {
-        "name": "Multimedia Technology",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF+S/GF/GF/AL"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Communication And Professional Skills",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Project",
+        "name": "Applied Mathematics-I",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Dr. Praveek Kumar Sharma"
     }, {
-        "name": "Information System Security",
+        "name": "Applied Physics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Shyam"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Basic Electronics",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
-    } ,{
-        "name": "Data Warehouse and Data Mining",
+        "teacher": "Mr. Ajay Lotheta "
+    }, {
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF+S/GF/GF/AL"
     }, {
-        "name": "Multimedia Technology",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF+S/GF/GF/AL"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Communication And Professional Skills",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Engineering Graphics",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Information System Security",
+        "name": "Basic Electronics",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mr. Ajay Lotheta"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Introduction to computers and programming in 'C'",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
-    } ,{
-        "name": "Multimedia Technology Lab",
+        "teacher": "GF+S/GF/GF/AL"
+    }, {
+        "name": "APL+EGL+CPL+BEL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF+S/GF/GF/AL"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
-        "startTime": "10:00 AM",
-        "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
-    }, {
-        "name": "Digital Image Processing",
-        "startTime": "11:00 AM",
-        "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
-    }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
-    }, {
-        "name": "Computer Software Testing",
-        "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
-    }, {
-        "name": "Data Warehouse and Data Mining",
-        "startTime": "3:00 PM",
-        "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
-    } ,{
-        "name": "Cleanness Activity",
-        "startTime": "4:00 PM",
-        "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
-    }]
+            "name": "Communication And Professional Skills",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "teacher": "Guest Faculty"
+        }, {
+            "name": "Engineering Graphics",
+            "startTime": "11:00 AM",
+            "endTime": "12:00 PM",
+            "teacher": "Guest Faculty"
+        },
+        {
+            "name": "Basic Electronics",
+            "startTime": "12:00 PM",
+            "endTime": "1:00 PM",
+            "teacher": "Mr. Ajay Lotheta"
+        },
+        {
+            "name": "Introduction to computers and programming in 'C'",
+            "startTime": "2:00 PM",
+            "endTime": "3:00 PM",
+            "teacher": "Guest Faculty"
+        },
+        {
+            "name": "APL+EGL+CPL+BEL",
+            "startTime": "3:00 PM",
+            "endTime": "4:00 PM",
+            "teacher": "GF+S/GF/GF/AL"
+        },
+        {
+            "name": "APL+EGL+CPL+BEL",
+            "startTime": "4:00 PM",
+            "endTime": "5:00 PM",
+            "teacher": "GF+S/GF/GF/AL"
+        }
+    ]
 }

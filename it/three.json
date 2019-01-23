@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": " Data Structures And Algorithm",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Balveer Singh Thakur"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Digital Electronics",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Computer Organization",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "General Proficency",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Object Oriented Programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Data Structures And Algorithm",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Balveer Singh Thakur"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Digital Electronics",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Computer Organization",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "General Proficency",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Object Oriented Programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Principle Of Engineering,Economics and Management",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Project",
+        "name": "Data Structure and Algorithm",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Dr. Balveer Singh Thakur"
     }, {
-        "name": "Information System Security",
+        "name": "Database Management System",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Rajesh Chauhan"
     }, {
-        "name": "Computer Software Testing",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Object Oriented Programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Principle Of Engineering,Economics and Management",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Project",
+        "name": "Data Structure and Algorithm",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Dr. Balveer Singh Thakur"
     }, {
-        "name": "Information System Security",
+        "name": "Database Management System",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Rajesh Chauhan"
     }, {
-        "name": "Computer Software Testing",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/BST/RC/GF"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Object Oriented Programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Principle Of Engineering,Economics and Management",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Digital Electronics",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Information System Security",
+        "name": "Computer Organization",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Computer Software Testing",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/BST/RC/GF"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Database Management System",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Dr. Rajesh Chauhan"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Principle Of Engineering,Economics and Management",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Digital Electronics",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Information System Security",
+        "name": "Computer Organization",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Computer Software Testing",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/BST/RC/GF"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "OOPL/DSAL/RDBMS/DEL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/BST/RC/GF"
     } ,{
-        "name": "Cleanness Activity",
+        "name": "Database Management System",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Dr. Rajesh Chauhan"
     }]
 }
