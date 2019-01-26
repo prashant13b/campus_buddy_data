@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Software Project Management",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Project Lab",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Object Oriented Software Engineering",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Payal Thakur"
     }, {
-        "name": "General Proficency",
+        "name": "Ditributed Sytems",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "vishal Thakur"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Data warehousse and Data Mining",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Project Lab",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Bhawana Sharma"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Software Project Management",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Project Lab",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Object Oriented Software Engineering",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "payal Thakur"
     }, {
-        "name": "General Proficency",
+        "name": "Ditributed Sytems",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Vishal Thakur"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Data Warehouse and Data Mining",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Project Lab",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Bhawana Sharma"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Project Lab",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Project",
+        "name": "Project Lab",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Information System Security",
+        "name": "Object Oriented Software Engineering",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Payal Thakur"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Software Verification, Validation & Testing",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Shweta Rajput"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Distributed Systems",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Vishal Thakur"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Data Warehouse and Data Mining",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshay Bhardwaj"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Project Lab",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Project",
+        "name": "Project Lab",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Information System Security",
+        "name": "Object Oriented Software Engineering",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Payal Thakur"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Software Verification, Validation & Testing",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Shweta Rajput"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "Distributed Systems",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Vishal Thakur"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Data Warehouse and Data Mining",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akhay Bhardwaj"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "General Proficiency",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Puja"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Software Project Management",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Information System Security",
+        "name": "Project Lab",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Akshay Bhardwaj",
     }, {
-        "name": "Computer Software Testing",
+        "name": "Software Verification, Validation & Testing",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Shweta Rajput"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Project Lab",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Bhawana Sharma"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Project Lab",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Bhawana Sharma"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "General Proficiency",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Puja"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Software Project Management",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Information System Security",
+        "name": "Project Lab",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Software Verification, Validation & Testing",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Shweta Rajput"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Project Lab",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Bhawana Sharma"
     } ,{
         "name": "Cleanness Activity",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Bhawana Sharma"
     }]
 }
