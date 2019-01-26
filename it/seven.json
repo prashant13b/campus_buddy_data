@@ -1,10 +1,10 @@
 
      {
     "monday": [{
-        "name": "M&s",
+        "name": "Modelling & Simulation",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Gf7"
+        "teacher": "Guest Faculty"
     }, {
         "name": "MSL/AJL/ECL/ Project Lab
 ",
@@ -18,26 +18,26 @@
         "endTime": "1:00 PM",
         "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Aj",
+        "name": "Advanced Java",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "mr. sunil kumar"
+        "teacher": "Sunil Kumar"
     }, {
-        "name": "Erp",
+        "name": "Enterprise & Resource Planning",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Mr. akshay bhardwaj"
+        "teacher": " Akshay Bhardwaj"
     }, {
-        "name": "Swm",
+        "name": "Software Maintenance",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf14"
+        "teacher": "Guest Faculty"
     }],
     "tuesday": [{
-        "name": "m&s",
+        "name": "Modelling & Simulation",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "gf7"
+        "teacher": "Guest Faculty"
     }, {
         "name": "MSL/AJL/ECL/ Project Lab",
         "startTime": "11:00 AM",
@@ -49,26 +49,26 @@
         "endTime": "1:00 PM",
         "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Aj",
+        "name": "Advanced Java",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Mr sunil"
+        "teacher": "Sunil Kumar"
     }, {
-        "name": "Erp",
+        "name": "Enterprise & Resource Planning",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "mr akshay bhardwaj"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Swm",
+        "name": "Software  Maintenance",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf14"
+        "teacher": "Guest Faculty"
     }],
     "wednesday": [{
-        "name": "Nlp",
+        "name": "Natural Language Processing",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Gf11"
+        "teacher": "Guest Faculty"
     }, {
         "name": "MSL/AJL/ECL/ Project Lab
 ",
@@ -82,26 +82,26 @@
         "endTime": "1:00 PM",
         "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Aj",
+        "name": "Advanced Java",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "mr.Sunil Kumar"
+        "teacher": "Sunil Kumar"
     }, {
-        "name": "Erp",
+        "name": "Enterprise & Resource Planning",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Mr. akshay"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Wco",
+        "name": "Wireless Communication,
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf8"
+        "teacher": "Guest Faculty"
     }],
     "thursday": [{
-        "name": "Nlp",
+        "name": "Natural Language processing",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Gf11"
+        "teacher": "Guest Faculty"
     }, {
         "name": "MSL/AJL/ECL/ Project Lab
 ",
@@ -115,26 +115,26 @@
         "endTime": "1:00 PM",
         "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Aj",
+        "name": "Advanced Java",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "mr. sunilKumar"
+        "teacher": " Sunil Kumar"
     } ,{
-        "name": "Erp",
+        "name": "Enterprise & Resource Planning",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Mr.Akshay Bhardwaj"
+        "teacher": "Akshay Bhardwaj"
     }, {
-        "name": "Wco",
+        "name": "Wireless Communication",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf8"
+        "teacher": "Guest Faculty"
     }],
     "friday": [{
-        "name": "Nlp",
+        "name": "Natural Language Processing",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Gf11"
+        "teacher": "Guesst Faculty"
     }, {
         "name": "MSL/AJL/ECL/ Project Lab
 ",
@@ -147,26 +147,26 @@
         "endTime": "1:00 PM",
         "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "M&S",
+        "name": "Modelling & Simulation",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Gf7"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Swm",
+        "name": "Software Maintenance",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Gf14"
+        "teacher": "Guest Faculty"
     } ,{
-        "name": "Wco",
+        "name": "Wireless Communication",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf8"
+        "teacher": "Guest Faculty"
     }],
     "saturday": [{
-        "name": "Nlp",
+        "name": "Natural Language Processing",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Gf11"
+        "teacher": "Guest Faculty"
     }, {
         "name": "MSL/AJL/ECL/ Project Lab",
         "startTime": "11:00 AM",
@@ -179,19 +179,19 @@
         "endTime": "1:00 PM",
         "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "M&S",
+        "name": "Modelling & Simulation",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Gf7"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Swm",
+        "name": "Software Maintenance",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Gf14"
+        "teacher": "Guest Faculty"
     } ,{
-        "name": "Wco",
+        "name": "Wireless Communication",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf8"
+        "teacher": "Guest Faculty"
     }]
 }
