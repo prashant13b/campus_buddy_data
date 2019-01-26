@@ -10,25 +10,25 @@
         "endTime": "12:00 PM",
         "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "DS",
+        "name": "Discrete Structures",
         "startTime": "1:00 PM",
         "endTime": "2:00 PM",
-        "teacher": "Gf7"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "CG",
+        "name": "Computer Graphics",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "GF14"
+        "teacher": "Guset Faculty"
     }, {
-        "name": "Ada",
+        "name": "Analysis and Design of Algorithms",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "GF13"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "SE",
+        "name": "Software Engineering",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "mrs. shweta rajput"
+        "teacher": "Shweta Rajput"
     }],
     "tuesday": [{
         "name": "ML/VPL/CGL",
@@ -41,22 +41,22 @@
         "endTime": "12:00 PM",
         "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Ds",
+        "name": "Discrete structure",
         "startTime": "1:00 PM",
         "endTime": "2:00 PM",
-        "teacher": "GF7"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "CG",
+        "name": "Computer Graphics",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "GF14"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Ada",
+        "name": "Analysis and Design of Algorithms",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Gf13"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "SE",
+        "name": "Software Engineering",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
         "teacher": "Shweta Rajput"
@@ -72,25 +72,25 @@
         "endTime": "12:00 PM",
         "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Ada",
+        "name": "Analysis and Design Of Algorithms",
         "startTime": "1:00 PM",
         "endTime": "2:00 PM",
-        "teacher": "Gf13"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Mmi",
+        "name": "Microprocessor",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Gf15"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Cg",
+        "name": "Computer Graphics",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Gf14"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Vp",
+        "name": "Visual Programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf12"
+        "teacher": " Guest Faculty"
     }],
     "thursday": [{
         "name": "ML/VPL/CGL",
@@ -103,25 +103,25 @@
         "endTime": "12:00 PM",
         "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Ada",
+        "name": "Analysis and Design of Algorithms",
         "startTime": "1:00 PM",
         "endTime": "2:00 PM",
-        "teacher": "Gf13"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "mmi",
+        "name": "Microprocesor",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Gf15"
+        "teacher": " Guest Faculty"
     } ,{
-        "name": "Cg",
+        "name": "Computer Graphics",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Gf14"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Vp",
+        "name": "Visual Programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf12"
+        "teacher": " Guest Faculty"
     }],
     "friday": [{
         "name": "ML/VPL/CGL",
@@ -134,212 +134,25 @@
         "endTime": "12:00 PM",
         "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Ds",
+        "name": "Discrete Structures",
         "startTime": "1:00 PM",
         "endTime": "2:00 PM",
-        "teacher": "Gf7"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "mmi",
+        "name": "Microprocessor",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Gf15"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Se",
+        "name": "Software Engineering",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Mrs.shweta rajput"
-    } ,{
-        "name": "Vp",
-        "startTime": "4:00 PM",
-        "endTime": "5:00 PM",
-        "teacher": "Gf12"
-    }],
-    "saturday": [{
-        "name": "ML/VPL/CGL",
-        "startTime": "10:00 AM",
-        "endTime": "11:00 AM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "ML/VPL/CGL",
-        "startTime": "11:00 AM",
-        "endTime": "12:00 PM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "Ds",
-        "startTime": "1:00 PM",
-        "endTime": "2:00 PM",
-        "teacher": "Gf7"
-    }, {
-        "name": "Mmi",
-        "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "Gf15"
-    }, {
-        "name": "Se",
-        "startTime": "3:00 PM",
-        "endTime": "4:00 PM",
-        "teacher": "Mrs. shweta rajput"
-    } ,{
-        "name": "Vp",
-        "startTime": "4:00 PM",
-        "endTime": "5:00 PM",
-        "teacher": "Gf12"
-    }]
-}{
-    "monday": [{
-        "name": "ML/VPL/CGL",
-        "startTime": "10:00 AM",
-        "endTime": "11:00 AM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "ML/VPL/CGL",
-        "startTime": "11:00 AM",
-        "endTime": "12:00 PM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "DS",
-        "startTime": "1:00 PM",
-        "endTime": "2:00 PM",
-        "teacher": "Gf7"
-    }, {
-        "name": "CG",
-        "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "GF14"
-    }, {
-        "name": "Ada",
-        "startTime": "3:00 PM",
-        "endTime": "4:00 PM",
-        "teacher": "GF13"
-    }, {
-        "name": "SE",
-        "startTime": "4:00 PM",
-        "endTime": "5:00 PM",
-        "teacher": "mrs. shweta rajput"
-    }],
-    "tuesday": [{
-        "name": "ML/VPL/CGL",
-        "startTime": "10:00 AM",
-        "endTime": "11:00 AM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "ML/VPL/CGL",
-        "startTime": "11:00 AM",
-        "endTime": "12:00 PM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "Ds",
-        "startTime": "1:00 PM",
-        "endTime": "2:00 PM",
-        "teacher": "GF7"
-    }, {
-        "name": "CG",
-        "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "GF14"
-    }, {
-        "name": "Ada",
-        "startTime": "3:00 PM",
-        "endTime": "4:00 PM",
-        "teacher": "Gf13"
-    }, {
-        "name": "SE",
-        "startTime": "4:00 PM",
-        "endTime": "5:00 PM",
         "teacher": "Shweta Rajput"
-    }],
-    "wednesday": [{
-        "name": "ML/VPL/CGL",
-        "startTime": "10:00 AM",
-        "endTime": "11:00 AM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "ML/VPL/CGL",
-        "startTime": "11:00 AM",
-        "endTime": "12:00 PM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "Ada",
-        "startTime": "1:00 PM",
-        "endTime": "2:00 PM",
-        "teacher": "Gf13"
-    }, {
-        "name": "Mmi",
-        "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "Gf15"
-    }, {
-        "name": "Cg",
-        "startTime": "3:00 PM",
-        "endTime": "4:00 PM",
-        "teacher": "Gf14"
-    }, {
-        "name": "Vp",
-        "startTime": "4:00 PM",
-        "endTime": "5:00 PM",
-        "teacher": "Gf12"
-    }],
-    "thursday": [{
-        "name": "ML/VPL/CGL",
-        "startTime": "10:00 AM",
-        "endTime": "11:00 AM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "ML/VPL/CGL",
-        "startTime": "11:00 AM",
-        "endTime": "12:00 PM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "Ada",
-        "startTime": "1:00 PM",
-        "endTime": "2:00 PM",
-        "teacher": "Gf13"
-    }, {
-        "name": "mmi",
-        "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "Gf15"
     } ,{
-        "name": "Cg",
-        "startTime": "3:00 PM",
-        "endTime": "4:00 PM",
-        "teacher": "Gf14"
-    }, {
-        "name": "Vp",
+        "name": "Visual programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf12"
-    }],
-    "friday": [{
-        "name": "ML/VPL/CGL",
-        "startTime": "10:00 AM",
-        "endTime": "11:00 AM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "ML/VPL/CGL",
-        "startTime": "11:00 AM",
-        "endTime": "12:00 PM",
-        "teacher": "GF15/ GF12/ GF14"
-    }, {
-        "name": "Ds",
-        "startTime": "1:00 PM",
-        "endTime": "2:00 PM",
-        "teacher": "Gf7"
-    }, {
-        "name": "mmi",
-        "startTime": "2:00 PM",
-        "endTime": "3:00 PM",
-        "teacher": "Gf15"
-    }, {
-        "name": "Se",
-        "startTime": "3:00 PM",
-        "endTime": "4:00 PM",
-        "teacher": "Mrs.shweta rajput"
-    } ,{
-        "name": "Vp",
-        "startTime": "4:00 PM",
-        "endTime": "5:00 PM",
-        "teacher": "Gf12"
+        "teacher": " Guest Faculty"
     }],
     "saturday": [{
         "name": "ML/VPL/CGL",
@@ -352,26 +165,23 @@
         "endTime": "12:00 PM",
         "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Ds",
+        "name": "Discrete Structures",
         "startTime": "1:00 PM",
         "endTime": "2:00 PM",
-        "teacher": "Gf7"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Mmi",
+        "name": "Microprocessor",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Gf15"
+        "teacher": " Guest Faculty"
     }, {
-        "name": "Se",
+        "name": "Software Engineering",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Mrs. shweta rajput"
+        "teacher": "Shweta Rajput"
     } ,{
-        "name": "Vp",
+        "name": "Visual Programming",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Gf12"
-    }]
-}
-       
-        
+        "teacher": " Guest Faculty"
+    
