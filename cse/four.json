@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Theory of Automata and Computation",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Deepak Kumar"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Operating Systems",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Discrete Mathematics and Logic Design",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "General Proficency",
+        "name": "ADAL/OSL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "ADAL/OSL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Multimedia Technology",
+        "name": "System Analysis and Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Rajesh Chauhan"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Theory of Automata and Computation",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Deepak Kumar"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Operating Systems",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Discrete Mathematics and Logic Design",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "General Proficency",
+        "name": "ADAL/OSL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "ADAL/OSL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Multimedia Technology",
+        "name": "System Analysis and Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Rajesh Chauhan
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Analysis and Deisign of Algorithm",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Deepak Kumar"
     }, {
-        "name": "Project",
+        "name": "Advanced Computer Architecture",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Bhawana Sharma"
     }, {
-        "name": "Information System Security",
+        "name": "Discrete Mathematics and Logic Design",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "ADAL/OSL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "ADAL/OSL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Multimedia Technology",
+        "name": "System Analysis and Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Rajesh Chauhan"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Analysis and Design of Algorithms",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Deepak Kumar"
     }, {
-        "name": "Project",
+        "name": "Advanced Computer Architecture",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Bhawana Sharma"
     }, {
-        "name": "Information System Security",
+        "name": "Discrete Mathematics and Logic Design",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "ADAL/OSL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "(DK /SKT)"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "ADAL/OSL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Multimedia Technology",
+        "name": "System Analysis and Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Rajesh Chauhan"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Operating Systems",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Analysis and Design of Algorithms",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Deepak Kumar"
     }, {
-        "name": "Information System Security",
+        "name": "Advanced Computer Architecture",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Bhawana Sharma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "ADAL/OSL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "ADAL/OSL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "(DK /SKT)"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Theory of Automata and Computation",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Deepak Kumar"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Operating Systems",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Satish Kumar"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Analysis and Design of Algorithm",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Deepak Kumar"
     }, {
-        "name": "Information System Security",
+        "name": "Advanced Computer Architecture",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Bhawana Sharma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "ADAL/OSL",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "(DK /SKT)"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Cleanless Activity",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "SKT",
     } ,{
-        "name": "Cleanness Activity",
+        "name": "Theory of Automata and Computation",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Deepak Kumar"
     }]
 }
