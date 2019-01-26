@@ -1,188 +1,200 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Artificial Intelligence",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Digital Image Processing",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "General Proficency",
+        "name": "Software Quality Engineering",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Advance java Programming",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Sunil Kumar"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Enterprise & Resource planning",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshay Bharadwaj"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Artificial Intelligence",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Digital Image Processing",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "General Proficency",
+        "name": "Software Quality Engineerjng",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Advanced Java Programming",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Sunil Kumar"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Enterprise & Resource Planning",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshay bharadwaj"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Information Security",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Project",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Information System Security",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Enterprise & Resource Planning",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Akshay Bharadwaj"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Mobile Computing",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Multimedia Technology",
+        "name": "Artificial Intelligence",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Informatiin Security",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Project",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Information System Security",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Enterprise  &Resource Planning",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": " Akshay Bharadwaj"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "Mobile Computing",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Multimedia Technology",
+        "name": "Artificial Intelligence",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Informatiom Security",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Digital Image Processing",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Information System Security",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Advanced java programming",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Sunil Kumar"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Software Quality Engineering",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty "
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Mobile Computing",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Information Security",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Digital Image Processing",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Information System Security",
+        "name": "AJPL/AIL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF/ GF/ GF/ GF"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Advanced Java Programming",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": " Sunil Kumar"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Software Quality Engineering",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty "
     } ,{
-        "name": "Cleanness Activity",
+        "name": "Mobile Computing",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty "
     }]
 }
