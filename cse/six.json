@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "CJPL/MSL/CGL/CNL,
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "name": "Computer Networks",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Satish Kumar"
     }, {
-        "name": "General Proficency",
+        "name": "Modelling and Simulation",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Core Java Programming",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Sunil kumar"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Digital Communication",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Anu Gaur"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "name": "Computer Networks",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Satish Kumar"
     }, {
-        "name": "General Proficency",
+        "name": "Modelling and Simulation",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Core Java Programming",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Sunil Kumar"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Digital Communication",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Anu Gaur"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Project",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
+        "name": "Computer Networks",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
         "teacher": "Satish Kumar"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Computer Graphics and Multimedia",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Bhawana Sharma"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Modelling and Simulation",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
-    }, {
-        "name": "Multimedia Technology",
+        "teacher: "Sachin Verma",
+    }, {  
+        "name": "Stastical Methods",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Payal Thakur"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Project",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
+        "name": "Computer Networks",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
         "teacher": "Satish Kumar"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Computer Graphics and Multimedia",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Bhawana Sharma"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "Modelling and Simulation",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Stastical Methods",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Payal Thakur"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Computer Graphics and Simulation",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Bhawana Sharma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Digital Communication",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Anu Gaur"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Core Java programming",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Sunil Kumar"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Stastical Methods",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Payal Thakur"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "CJPL/MSL/CGL/CNL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(SK/SV/PT/SHK)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Cleanness Activity",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Sachin Verma"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Computer Graphics and Simulation",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Bhawana Sharma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Digital Communication",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Anu Gaur"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Core Java programming",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Sunil Kumar"
     } ,{
-        "name": "Cleanness Activity",
+        "name": "Stastical Methods",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Payal Thakur"
     }]
 }
