@@ -1,188 +1,377 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/VPL/CGL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/VPL/CGL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "name": "DS",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf7"
     }, {
-        "name": "General Proficency",
+        "name": "CG",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "GF14"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Ada",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF13"
     }, {
-        "name": "Multimedia Technology",
+        "name": "SE",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "mrs. shweta rajput"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/VPL/CGL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/VPL/CGL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "name": "Ds",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "GF7"
     }, {
-        "name": "General Proficency",
+        "name": "CG",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "GF14"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Ada",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf13"
     }, {
-        "name": "Multimedia Technology",
+        "name": "SE",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
         "teacher": "Shweta Rajput"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/VPL/CGL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Project",
+        "name": "ML/VPL/CGL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Ada",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf13"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Mmi",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf15"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Cg",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Gf14"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Vp",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf12"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/VPL/CGL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Project",
+        "name": "ML/VPL/CGL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Ada",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf13"
     }, {
-        "name": "Computer Software Testing",
+        "name": "mmi",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf15"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "Cg",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Gf14"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Vp",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf12"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/VPL/CGL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/VPL/CGL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Ds",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf7"
     }, {
-        "name": "Computer Software Testing",
+        "name": "mmi",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf15"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Se",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Mrs.shweta rajput"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Vp",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "teacher": "Gf12"
+    }],
+    "saturday": [{
+        "name": "ML/VPL/CGL",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "ML/VPL/CGL",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "Ds",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf7"
+    }, {
+        "name": "Mmi",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "teacher": "Gf15"
+    }, {
+        "name": "Se",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "teacher": "Mrs. shweta rajput"
+    } ,{
+        "name": "Vp",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "teacher": "Gf12"
+    }]
+}{
+    "monday": [{
+        "name": "ML/VPL/CGL",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "ML/VPL/CGL",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "DS",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf7"
+    }, {
+        "name": "CG",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "teacher": "GF14"
+    }, {
+        "name": "Ada",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "teacher": "GF13"
+    }, {
+        "name": "SE",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "teacher": "mrs. shweta rajput"
+    }],
+    "tuesday": [{
+        "name": "ML/VPL/CGL",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "ML/VPL/CGL",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "Ds",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "GF7"
+    }, {
+        "name": "CG",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "teacher": "GF14"
+    }, {
+        "name": "Ada",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "teacher": "Gf13"
+    }, {
+        "name": "SE",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
         "teacher": "Shweta Rajput"
     }],
-    "saturday": [{
-        "name": "Multimedia Technology Lab",
+    "wednesday": [{
+        "name": "ML/VPL/CGL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/VPL/CGL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF15/ GF12/ GF14"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Ada",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf13"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Mmi",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf15"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Cg",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
-    } ,{
-        "name": "Cleanness Activity",
+        "teacher": "Gf14"
+    }, {
+        "name": "Vp",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf12"
+    }],
+    "thursday": [{
+        "name": "ML/VPL/CGL",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "ML/VPL/CGL",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "Ada",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf13"
+    }, {
+        "name": "mmi",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "teacher": "Gf15"
+    } ,{
+        "name": "Cg",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "teacher": "Gf14"
+    }, {
+        "name": "Vp",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "teacher": "Gf12"
+    }],
+    "friday": [{
+        "name": "ML/VPL/CGL",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "ML/VPL/CGL",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "Ds",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf7"
+    }, {
+        "name": "mmi",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "teacher": "Gf15"
+    }, {
+        "name": "Se",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "teacher": "Mrs.shweta rajput"
+    } ,{
+        "name": "Vp",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "teacher": "Gf12"
+    }],
+    "saturday": [{
+        "name": "ML/VPL/CGL",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "ML/VPL/CGL",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "teacher": "GF15/ GF12/ GF14"
+    }, {
+        "name": "Ds",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Gf7"
+    }, {
+        "name": "Mmi",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "teacher": "Gf15"
+    }, {
+        "name": "Se",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "teacher": "Mrs. shweta rajput"
+    } ,{
+        "name": "Vp",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "teacher": "Gf12"
     }]
 }
+       
+        
