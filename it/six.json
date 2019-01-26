@@ -1,188 +1,189 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "name": "Core Java",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Mrigna Walia"
     }, {
-        "name": "General Proficency",
+        "name": "Object Oriented Software Engineering",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Minakshi Bhardwaj"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Web Technology",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "vishal Thakur"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Computer Network Management,",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshok Kumar"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "(BST/RC/VT/PG)",
+ }, {
+        "name": "Core Java",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Mrigna Walia"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
-    }, {
-        "name": "General Proficency",
+        "name": "-Object Oriented Software Engineering",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Minakshi Bhardwaj"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Web Technology",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Vishal Thakur"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Computer Network Management,",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshok Kumar"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Project",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Parallel Computing",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Balveer Singh Thakur"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Web Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
         "teacher": "Satish Kumar"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Artificial Intelligence",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Pratishtha Gautam "
     }, {
-        "name": "Multimedia Technology",
+        "name": "Computer Network Management,",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshok Kumar"
+        
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Project",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Parallel Computing",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Balveer Singh Thakur"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Web Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
         "teacher": "Satish Kumar"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "Artificial Intelligence",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Pratishtha Gautam"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Computer Network Management,",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Akshok Kumar"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Parallel Computing",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Balveer Singh Thakur"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Object Oriented Software Engineering",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Minakshi Bhardwaj"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Artificial Intelligence",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Pratishtha Gautam"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Core Java",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mrigna Walia"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "PCL/CJL/WTL/AIL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "(BST/RC/VT/PG)"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Cleanness Activity",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Vishal Thakur"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Parallel Computing",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Balveer Singh Thakur"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Object Oriented Software Engineering",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Minakshi Bhardwaj"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Artificial Intelligence",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Pratishtha Gautam"
     } ,{
-        "name": "Cleanness Activity",
+        "name": "Core Java",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Mrigna Walia"
     }]
 }
