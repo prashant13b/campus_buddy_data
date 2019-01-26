@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/WTL/RDBMS",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "name": "Microprocessor Theory and Application",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Guest Faculty "
     }, {
-        "name": "General Proficency",
+        "name": "Web Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Software Engineering",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Compiler Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Multimedia Technology Lab",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "name": "Mmicroprocessor Theory and Application",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Guest Faculty "
     }, {
-        "name": "General Proficency",
+        "name": "Web Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Software Engineering",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
         "teacher": "Shweta Rajput"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Compiler Design",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Project",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Database Management System",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Rajesh Chauhan"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Web Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Microprocessor Theory and Application",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Multimedia Technology",
+        "name": "Principals of eEgineering and Economics",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Project",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Database Management System",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Rajesh Chauhan"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Web Technology",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty "
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "Microprocessor Theory and Application",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Principals of Engineering Economics and Management",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty "
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name":"Database Management System",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Rajesh Chauhan"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Compiler Design",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Principals of Engineering Economics and Management",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty "
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Software Engineering",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
         "teacher": "Shweta Rajput"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF/SR/GF"
     }, {
-        "name": "Digital Image Processing",
+        "name": "ML/WTL/RDBMSL",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Gf/SR/GF"
     }, {
-        "name": "Information System Security",
-        "startTime": "12:00 PM",
-        "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "name": "Database Management System",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "teacher": "Rajesh Chauhan"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Compiler Design",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty "
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Principals of Engineering Economics and Management",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Guest Faculty "
     } ,{
-        "name": "Cleanness Activity",
+        "name": "Software Engineering",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Ms. Shweta Rajput"
     }]
 }
