@@ -1,188 +1,188 @@
 {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Introduction to Pogramming Language In 'C'",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Applied Physics-I",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Shyam"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Applied Mathematics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Praveen Kumar Sharma"
     }, {
-        "name": "General Proficency",
+        "name": "Engineering Graphics",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }, {
-        "name": "Multimedia Technology",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Introduction to Pogramming Language In 'C'",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Applied Physics-I",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Shyam"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Applied Mathematics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Praveen Kumar Sharma"
     }, {
-        "name": "General Proficency",
+        "name": "Engineering Graphics",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }, {
-        "name": "Multimedia Technology",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Basic Electrical",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Anu Gaur"
     }, {
-        "name": "Project",
+        "name": "Applied Physics-I",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Shyam"
     }, {
-        "name": "Information System Security",
+        "name": "Applied Mathematics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Praveen Kumar Sharma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Communication & Profesional skills",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }, {
-        "name": "Multimedia Technology",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Basic Electrical",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Anu Gaur"
     }, {
-        "name": "Project",
+        "name": "Applied Physics-I ",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Shaym"
     }, {
-        "name": "Information System Security",
+        "name": "Applied Mathematics-I",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Praveen Kumar Sharma"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Communication & Profesional skills",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }, {
-        "name": "Multimedia Technology",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Engineering Graphics",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Basic Electrical",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Anu Gaur"
     }, {
-        "name": "Information System Security",
+        "name": "Introduction to Pogramming Language In 'C'",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Communication & Profesional skills",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Engineering Graphics",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Digital Image Processing",
+        "name": "Basic Electrical",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "Anu Gaur"
     }, {
-        "name": "Information System Security",
+        "name": "Introduction to Pogramming Language In 'C'",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Communication & Profesional skills",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Guest Faculty"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     } ,{
-        "name": "Cleanness Activity",
+        "name": "CPL/BEL/APL/EGL",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF5/ GF6/ GF3+S/ GF4"
     }]
 }
