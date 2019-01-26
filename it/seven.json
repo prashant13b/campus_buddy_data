@@ -1,188 +1,197 @@
-{
+
+     {
     "monday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "M&s",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf7"
     }, {
-        "name": "Digital Image Processing",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "General Proficency",
+        "name": "Aj",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "mr. sunil kumar"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Erp",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Mr. akshay bhardwaj"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Swm",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf14"
     }],
     "tuesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "m&s",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "gf7"
     }, {
-        "name": "Digital Image Processing",
+        "name": "MSL/AJL/ECL/ Project Lab",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "MSL/AJL/ECL/ Project Lab",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "General Proficency",
+        "name": "Aj",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Puja"
+        "teacher": "Mr sunil"
     }, {
-        "name": "Multimedia Technology Lab",
+        "name": "Erp",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "mr akshay bhardwaj"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Swm",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf14"
     }],
     "wednesday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Nlp",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf11"
     }, {
-        "name": "Project",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Information System Security",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Aj",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "mr.Sunil Kumar"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Erp",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Mr. akshay"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Wco",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf8"
     }],
     "thursday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Nlp",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf11"
     }, {
-        "name": "Project",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Information System Security",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Computer Software Testing",
+        "name": "Aj",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "mr. sunilKumar"
     } ,{
-        "name": "Data Warehouse and Data Mining",
+        "name": "Erp",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Mr.Akshay Bhardwaj"
     }, {
-        "name": "Multimedia Technology",
+        "name": "Wco",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf8"
     }],
     "friday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Nlp",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf11"
     }, {
-        "name": "Digital Image Processing",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Information System Security",
+        "name": "MSL/AJL/ECL/ Project Lab",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Computer Software Testing",
+        "name": "M&S",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf7"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Swm",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Gf14"
     } ,{
-        "name": "Multimedia Technology Lab",
+        "name": "Wco",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf8"
     }],
     "saturday": [{
-        "name": "Multimedia Technology Lab",
+        "name": "Nlp",
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
-        "teacher": "Shweta Rajput"
+        "teacher": "Gf11"
     }, {
-        "name": "Digital Image Processing",
+        "name": "MSL/AJL/ECL/ Project Lab",
         "startTime": "11:00 AM",
         "endTime": "12:00 PM",
-        "teacher": "Nivedita Thakur"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Information System Security",
+        "name": "MSL/AJL/ECL/ Project Lab
+",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "GF7/SK/AB/PKS+ GF15"
     }, {
-        "name": "Computer Software Testing",
+        "name": "M&S",
         "startTime": "2:00 PM",
         "endTime": "3:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf7"
     }, {
-        "name": "Data Warehouse and Data Mining",
+        "name": "Swm",
         "startTime": "3:00 PM",
         "endTime": "4:00 PM",
-        "teacher": "Akshay Bhardwaj"
+        "teacher": "Gf14"
     } ,{
-        "name": "Cleanness Activity",
+        "name": "Wco",
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
-        "teacher": "Satish Kumar"
+        "teacher": "Gf8"
     }]
 }
